@@ -1,6 +1,7 @@
 # qgmzmy的小站
 <hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="230" SIZE=3 align="left">
-欢迎提交😘
+欢迎提交😘<br>
+<a href="https://qgmzmy.github.io">qgmzmy.github.io</a>
 <hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="230" SIZE=3 align="left">
 <a href="https://www.bilibili.com/video/BV1GJ411x7h7"><img src="images/qgmzmy.jpg" width="20"></a>
 <a href="https://space.bilibili.com/551397484">哔哩哔哩</a>
