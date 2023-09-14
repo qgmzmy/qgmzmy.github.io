@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>画中画</title>
+</head>
+<body>
+    <video id="myVideo" width="360" height="780" controls>
+        <source src="./video/zp.mp4" type="video/mp4">
+      </video>
+      <button onclick="pipVideo()">进入画中画</button>
+      <script>
+      function pipVideo() {
+        var video = document.getElementById("myVideo");
+        if (video.requestPictureInPicture()) {
+          console.log("Entered Picture-in-Picture mode");
+        } else {
+          console.log("Picture-in-Picture not supported");
+        }
+      }
+      </script>
+</body>
+</html>
